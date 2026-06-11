@@ -3,7 +3,7 @@
 
 🎓 Student passionate about Data Analytics, Business Analytics, and data-driven decision making.
 
-I enjoy transforming raw data into meaningful insights that help solve problems, identify opportunities, and support better business outcomes. I am continuously learning analytical tools, statistical techniques, and visualization methods to improve my ability to extract value from data.
+I enjoy transforming raw data into meaningful insights that help solve problems, identify opportunities, and support better business outcomes. I am continuously learning analytical tools, statistical techniques, and visualization methods to improve my ability to extract value and key insights from data.
 
 ---
 
