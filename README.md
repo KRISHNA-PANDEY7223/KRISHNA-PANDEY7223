@@ -53,8 +53,9 @@ I enjoy transforming raw data into meaningful insights that help solve problems,
 ### 📈 Superstore Sales Performance Analysis
 Analyzed sales data to identify revenue trends, customer behavior, and key business drivers.
 
-### Social-Media-Stress-Analysis
-A
+### 📈 Social-Media-Stress-Analysis
+Analyzed student mental health data across diverse countries, identifying critical insights and the major factors affecting mental well-being.
+
 ---
 
 ## 📚 Currently Learning
