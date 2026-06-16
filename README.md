@@ -56,6 +56,8 @@ Analyzed sales data to identify revenue trends, customer behavior, and key busin
 ### 📈 Social-Media-Stress-Analysis
 Analyzed student mental health data across diverse countries, identifying critical insights and the major factors affecting mental well-being.
 
+### 📈 Financial-Fraud-Behavior-Analysis 
+
 ---
 
 ## 📚 Currently Learning
