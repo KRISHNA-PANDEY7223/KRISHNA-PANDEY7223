@@ -57,7 +57,8 @@ Analyzed sales data to identify revenue trends, customer behavior, and key busin
 Analyzed student mental health data across diverse countries, identifying critical insights and the major factors affecting mental well-being.
 
 ### 📈 Financial-Fraud-Behavior-Analysis 
-
+  This project focused on analyzing a financial transaction dataset to identify patterns and insights related to fraudulent activity.
+  
 ---
 
 ## 📚 Currently Learning
